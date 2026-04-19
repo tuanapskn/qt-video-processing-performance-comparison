@@ -1,0 +1,11 @@
+﻿   Qt/MSBuild: 3.4.0.1
+   Qt: 6.9.1
+  GpuProcessor.cpp
+  MainWindow.cpp
+C:\Users\TUANA\OneDrive\Masaüstü\QtWidgetsApplication1\GpuProcessor.cpp(1,1): warning C4828: Dosyada 0xc4 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+C:\Users\TUANA\OneDrive\Masaüstü\QtWidgetsApplication1\GpuProcessor.cpp(1,1): warning C4828: Dosyada 0x52c konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+C:\Users\TUANA\OneDrive\Masaüstü\QtWidgetsApplication1\GpuProcessor.cpp(3,10): error C1083: içerme dosyası açılamıyor: 'opencv2/cudaarithm.hpp': No such file or directory
+C:\Users\TUANA\OneDrive\Masaüstü\QtWidgetsApplication1\VideoProcessor.h(1,1): warning C4828: Dosyada 0x197 konumundan başlayan bir karakter, geçerli kaynak karakter kümesinde (kod sayfası 65001) geçersiz.
+  ('MainWindow.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\TUANA\OneDrive\Masaüstü\QtWidgetsApplication1\MainWindow.cpp(99,12): error C4996: 'QChart::setAxisX': kullanım dışı olarak bildirildi
